@@ -1,4 +1,5 @@
 #!/bin/bash
+# by Daleman 2019
 x=10
 while [ $x -gt 0 ]
 do
